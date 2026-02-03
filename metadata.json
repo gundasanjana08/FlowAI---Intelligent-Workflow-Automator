@@ -1,0 +1,7 @@
+{
+  "name": "FlowAI - Intelligent Workflow Automator",
+  "description": "A high-performance workflow automation platform that combines REST API orchestration with advanced Gemini-powered text and image processing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
